@@ -27,7 +27,7 @@ Designed for experimentation, customization, and removing grind limitations whil
 md
 ## 📸 Screenshots
 
-<p align="center"> <img src="assets/main_menu.png" width="30%"/> <img src="assets/money_tools.png" width="30%"/> <img src="assets/vehicle_upgrades.png" width="30%"/> </p> <p align="center"> <img src="assets/gameplay.png" width="30%"/> <img src="assets/stats.png" width="30%"/> </p>
+<p align="center"> <img src="assets/main_menu.png" width="20%"/> <img src="assets/money_tools.png" width="20%"/> <img src="assets/vehicle_upgrades.png" width="20%"/> </p> <p align="center"> <img src="assets/gameplay.png" width="20%"/> <img src="assets/stats.png" width="20%"/> </p>
 ---
 
 ## 🚀 Features
