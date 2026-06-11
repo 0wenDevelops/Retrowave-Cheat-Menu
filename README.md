@@ -10,7 +10,7 @@
 
 ## 🎬 Demo
 
-![Owen's Cheat Menu Demo](assets/demo.gif)
+![Owen's Cheat Menu Demo](assets/demo2.mp4)
 
 > A quick preview of Owen’s Cheat Menu in action.
 
