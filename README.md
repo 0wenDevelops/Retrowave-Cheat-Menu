@@ -118,5 +118,3 @@ The author is not responsible for crashes, bans, corruption, or any unintended c
 No malicious code is included. Users may verify files using tools such as VirusTotal.
 
 ---
-
-## 📁 Asset Structure (Recommended)
