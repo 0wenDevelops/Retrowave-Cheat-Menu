@@ -24,15 +24,14 @@ Designed for experimentation, customization, and removing grind limitations whil
 
 ---
 
-md
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/main_menu.png" width="19%"/>
-  <img src="assets/money_tools.png" width="19%"/>
-  <img src="assets/vehicle_upgrades.png" width="19%"/>
-  <img src="assets/gameplay.png" width="19%"/>
-  <img src="assets/stats.png" width="19%"/>
+  <img src="assets/main_menu.png" width="17%"/>
+  <img src="assets/money_tools.png" width="15%"/>
+  <img src="assets/vehicle_upgrades.png" width="15%"/>
+  <img src="assets/gameplay.png" width="15%"/>
+  <img src="assets/stats.png" width="15%"/>
 </p>
 ---
 
