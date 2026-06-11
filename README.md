@@ -24,24 +24,23 @@ Designed for experimentation, customization, and removing grind limitations whil
 
 ---
 
+```md
 ## 📸 Screenshots
 
-### Main Menu
-![Main Menu](assets/main_menu.png)
+<p align="center">
+  <img src="assets/main_menu.png" width="400"/>
+  <img src="assets/money_tools.png" width="400"/>
+</p>
 
-### Money Tools
-![Money Tools](assets/money_tools.png)
+<p align="center">
+  <img src="assets/vehicle_upgrades.png" width="400"/>
+  <img src="assets/gameplay.png" width="400"/>
+</p>
 
-### Vehicle Upgrades
-![Vehicle Upgrades](assets/vehicle_upgrades.png)
-
-### Gameplay System
-![Gameplay Section](assets/gameplay.png)
-
-### Statistics Editor
-![Stats Editor](assets/stats.png)
-
----
+<p align="center">
+  <img src="assets/stats.png" width="400"/>
+</p>
+```
 
 ## 🚀 Features
 
