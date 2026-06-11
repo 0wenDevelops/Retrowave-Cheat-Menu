@@ -27,7 +27,7 @@ Designed for experimentation, customization, and removing grind limitations whil
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](assets/screenshots/menu_main.png)
+![Main Menu](assets/screenshots/main_menu.png)
 
 ### Money Tools
 ![Money Tools](assets/screenshots/money_tools.png)
