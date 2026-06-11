@@ -21,6 +21,7 @@ A feature-rich mod menu for Retrowave that provides money tools, vehicle customi
 * Unlock Siren
 * Max all upgrades on selected vehicles
 * Max all upgrades on every vehicle
+* ability to increase vehicle speed
 
 ### Vehicle Unlocks
 
@@ -28,25 +29,12 @@ A feature-rich mod menu for Retrowave that provides money tools, vehicle customi
 * Unlock all colors
 * Unlock all wheels
 
-### Wheel Tools
-
-* Scan available wheel types
-* Apply wheels to selected vehicles
-* Vehicle customization utilities
-
 ### Statistics
 
 * Set wins for all vehicles
 * Modify total games played
 * Modify win multipliers
 * Various progression-related options
-
-### Utilities
-
-* Refresh game UI
-* Diagnostics tools
-* Preference management tools
-* Mod debugging features
 
 ## Requirements
 
@@ -76,7 +64,6 @@ If the Mods folder does not appear, verify that MelonLoader was installed correc
 ## Notes
 
 * Some modifications may require the vehicle customization screen to refresh before changes become visible.
-* If changes do not appear immediately, use the Refresh UI option.
 * Back up your save data before using any mods.
 
 ## Disclaimer
@@ -88,5 +75,7 @@ This software is provided "as is" without warranty of any kind. By downloading, 
 The author shall not be held responsible for crashes, game instability, corrupted saves, loss of progress, account restrictions, bans, software conflicts, compatibility issues, performance problems, or any other unintended consequences resulting from the use of this software.
 
 No malware, spyware, viruses, or intentionally harmful code have been included in this release. Users should only download the mod from official release sources and verify files before use.
+
+If you do not trust just installing the cheat menu and using immediately you can look through the source code or put it through https://www.virustotal.com before you unzip or use
 
 Use at your own risk.
