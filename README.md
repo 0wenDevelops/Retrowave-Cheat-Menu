@@ -129,3 +129,13 @@ The author is not responsible for crashes, bans, corruption, or any unintended c
 No malicious code is included. Users may verify files using tools such as VirusTotal.
 
 ---
+
+## Multiplayer Notice
+
+This mod is intended for single-player and private use only.
+
+Using this modification in multiplayer environments is strongly discouraged and may violate the game’s terms of service or negatively impact other players’ experiences.
+
+The author does not support cheating in public multiplayer sessions and is not responsible for bans, restrictions, account actions, or other consequences resulting from multiplayer use.
+
+---
