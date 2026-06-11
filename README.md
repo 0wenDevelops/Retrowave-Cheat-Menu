@@ -26,20 +26,8 @@ Designed for experimentation, customization, and removing grind limitations whil
 
 ## 📸 Screenshots
 
-### Main Menu
+### Preview
 ![Main Menu](assets/screenshots/menu_main.png)
-
-### Money Tools
-![Money Tools](assets/screenshots/money_tools.png)
-
-### Vehicle Upgrades
-![Vehicle Upgrades](assets/screenshots/vehicle_upgrades.png)
-
-### Unlock System
-![Unlock System](assets/screenshots/unlocks.png)
-
-### Statistics Editor
-![Stats Editor](assets/screenshots/stats.png)
 
 ---
 
