@@ -4,12 +4,20 @@ A feature-rich mod menu for Retrowave that provides money tools, vehicle customi
 
 ## Features
 
+* abilty to drag menu
+* ability to turn off and turn on crashes or losses
+* Auto-Saves turned on options
+* Set combo in drive to max
+* set bomb health to max
+* add 100k to score in drive
+
 ### Money
 
 * Set currency to $999,999
 * Set currency to $9,999,999
 * Add $10,000
 * Currency multipliers
+* Auto-Money (keeps your money at 9M no matter the purchases)
 
 ### Vehicle Upgrades
 
@@ -28,6 +36,7 @@ A feature-rich mod menu for Retrowave that provides money tools, vehicle customi
 * Unlock all cars
 * Unlock all colors
 * Unlock all wheels
+* Unlock all License Plates
 
 ### Statistics
 
@@ -35,6 +44,7 @@ A feature-rich mod menu for Retrowave that provides money tools, vehicle customi
 * Modify total games played
 * Modify win multipliers
 * Various progression-related options
+* set traffic difficulty to Peacful, Easy, Normal, Hard, Mega
 
 ## Requirements
 
