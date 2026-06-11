@@ -24,7 +24,7 @@ Designed for experimentation, customization, and removing grind limitations whil
 
 ---
 
-```md
+md
 ## 📸 Screenshots
 
 <p align="center">
@@ -40,7 +40,8 @@ Designed for experimentation, customization, and removing grind limitations whil
 <p align="center">
   <img src="assets/stats.png" width="400"/>
 </p>
-```
+
+---
 
 ## 🚀 Features
 
