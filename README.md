@@ -35,8 +35,8 @@ Designed for experimentation, customization, and removing grind limitations whil
 ### Vehicle Upgrades
 ![Vehicle Upgrades](assets/screenshots/vehicle_upgrades.png)
 
-### Unlock System
-![Unlock System](assets/screenshots/unlocks.png)
+### Gameplay System
+![Unlock System](assets/screenshots/Gameplay.png)
 
 ### Statistics Editor
 ![Stats Editor](assets/screenshots/stats.png)
