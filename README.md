@@ -10,7 +10,7 @@
 
 ## 🎬 Demo
 
-![Owen's Cheat Menu Demo](assets/demo2.mp4)
+https://raw.githubusercontent.com/iplayxbox65-ship-it/Retrowave-Cheat-Menu/main/assets/demo.mp4
 
 > A quick preview of Owen’s Cheat Menu in action.
 
