@@ -10,7 +10,7 @@
 
 ## 🎬 Demo
 
-![Owen's Cheat Menu Demo](assets/demo.gif)
+![Owen's Cheat Menu Demo](demo.mp4)
 
 > A quick preview of Owen’s Cheat Menu in action.
 
@@ -21,13 +21,6 @@
 A feature-rich mod menu for **Retrowave** that provides money tools, vehicle customization, unlocks, upgrades, stat editing, and various utility functions.
 
 Designed for experimentation, customization, and removing grind limitations while maintaining full in-game access via MelonLoader.
-
----
-
-## 📸 Screenshots
-
-### Preview
-![Main Menu](assets/screenshots/menu_main.png)
 
 ---
 
@@ -125,5 +118,3 @@ The author is not responsible for crashes, bans, corruption, or any unintended c
 No malicious code is included. Users may verify files using tools such as VirusTotal.
 
 ---
-
-## 📁 Asset Structure (Recommended)
