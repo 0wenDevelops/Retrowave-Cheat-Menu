@@ -8,7 +8,7 @@
 
 ---
 
-## 🎬 Demo
+## 🎬 Preview
 
 ![Owen's Cheat Menu Demo](assets/demo.gif)
 
