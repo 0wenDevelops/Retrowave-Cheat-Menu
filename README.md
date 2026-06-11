@@ -120,22 +120,22 @@ Designed for experimentation, customization, and removing grind limitations whil
 
 ## ⚠️ Disclaimer
 
-This is an unofficial fan-made modification and is not affiliated with the developers or publishers of *Retrowave*.
+This project is an unofficial fan-made modification for *Retrowave* and is not affiliated with, endorsed by, or associated with the game’s developers or publishers.
 
-Provided “as is” without warranty. Use at your own risk.
+This mod is provided “as is” without warranty of any kind. By downloading, installing, or using this software, you acknowledge and accept all risks associated with its use.
 
-The author is not responsible for crashes, bans, corruption, or any unintended consequences.
-
-No malicious code is included. Users may verify files using tools such as VirusTotal.
-
----
-
-## Multiplayer Notice
-
-This mod is intended for single-player and private use only.
+This project is intended for offline, single-player, and sandbox-style gameplay experimentation only.
 
 Using this modification in multiplayer environments is strongly discouraged and may violate the game’s terms of service or negatively impact other players’ experiences.
 
-The author does not support cheating in public multiplayer sessions and is not responsible for bans, restrictions, account actions, or other consequences resulting from multiplayer use.
+The author does not support cheating in public multiplayer sessions and is not responsible for bans, restrictions, account actions, corrupted saves, crashes, instability, or any other consequences resulting from the use of this software.
+
+Leaderboard integrity, multiplayer interactions, and online progression systems are not supported targets of this project.
+
+No malware, spyware, viruses, or intentionally harmful code are included in this release. Users are encouraged to download only from official sources and verify files before use.
+
+For transparency, users may review the source code or scan files using services such as VirusTotal before installation.
+
+Use at your own risk.
 
 ---
