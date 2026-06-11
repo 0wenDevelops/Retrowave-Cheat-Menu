@@ -24,13 +24,6 @@ Designed for experimentation, customization, and removing grind limitations whil
 
 ---
 
-## 📸 Screenshots
-
-### Preview
-![Main Menu](assets/screenshots/menu_main.png)
-
----
-
 ## 🚀 Features
 
 ### 🧩 Menu System
