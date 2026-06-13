@@ -108,8 +108,15 @@ Designed for experimentation, customization, and removing grind limitations whil
 5. Open `Mods` folder  
 6. Place `.dll` file inside  
 7. Launch game  
-8. Press **F1** to open menu  
+8. Press **F1** to open menu
 
+---
+   
+## 📥 Download
+
+Download the latest compiled `.dll` from the **Releases** page.
+
+Do not download this mod from random reuploads or third-party sites.
 ---
 
 ## 📝 Notes
