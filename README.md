@@ -1,4 +1,4 @@
-# Owen’s Cheat Menu
+# Owen’s Mod Menu for Retrowave
 
 ![Retrowave](https://img.shields.io/badge/Game-Retrowave-blue)
 ![Version](https://img.shields.io/badge/Version-3.0.0-green)
