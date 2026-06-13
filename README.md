@@ -112,11 +112,11 @@ Designed for experimentation, customization, and removing grind limitations whil
 
 ---
    
-## 📥 Download
+## 📥 Download & Source Code
 
 Download the latest compiled `.dll` from the **Releases** page.
 
-Do not download this mod from random reuploads or third-party sites.
+Each release includes a `sourcecode.zip` file containing the matching source code for that version.
 
 ---
 
