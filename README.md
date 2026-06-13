@@ -117,6 +117,7 @@ Designed for experimentation, customization, and removing grind limitations whil
 Download the latest compiled `.dll` from the **Releases** page.
 
 Do not download this mod from random reuploads or third-party sites.
+
 ---
 
 ## 📝 Notes
